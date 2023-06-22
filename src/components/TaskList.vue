@@ -8,7 +8,7 @@
       @remove="$emit('remove', task)"
     />
   </div>
-  <div v-else style="text-align: center">not tasks ...</div>
+  <div v-else style="text-align: center">no tasks ...</div>
 </template>
 
 <script>

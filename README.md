@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+### Вводное тестовое задание
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+Разработать простое приложение таск-менеджера с использованием Vue 2 или 3 (можно использовать composition API), включая работу с vuex и vue-router.
+Приложение должно иметь главную страницу (на главной странице переход на страницу со списком задач, по желанию можете дать волю своей фантазии) и страницу со списком задач
+На странице со списком задач должна быть форма создания задачи.
+Задачи можно удалить и отредактировать. При обновлении страницы должны отображаться сохранённые задачи.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).

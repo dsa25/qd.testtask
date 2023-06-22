@@ -12,7 +12,7 @@ export default {
   name: "MySelect",
   props: {
     modelValue: {
-      type: String
+      type: [String, Number]
     },
     options: {
       type: Array,
