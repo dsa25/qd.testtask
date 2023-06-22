@@ -15,8 +15,9 @@ const routes = [
 ]
 
 const router = createRouter({
-    history: createWebHistory(),
-    routes
+  // window.location.pathname     test for github Pages
+  history: createWebHistory(),
+  routes
 })
 
 export default router
